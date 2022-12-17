@@ -1,7 +1,6 @@
 class Student:  
     def name(self):  
-        print("Riya Dominic")  
-#child class Dog inherits the base class Animal  
+        print("Riya Dominic")   
 class Riya(Student):  
     def place(self):  
         print("Cherupuzha")  
